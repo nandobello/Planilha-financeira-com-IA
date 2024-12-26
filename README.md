@@ -23,7 +23,7 @@ Uma planilha financeira foi desenvolvida com base nos conteúdos apresentados no
 
 Clique no link abaixo para fazer o download da planilha:
 
-<a href="[/mnt/data/Tabela%20Curso.xlsx](https://github.com/nandobello/Planilha-financeira-com-IA/blob/main/Tabela%20Curso.xlsx)" title="Download Planilha">📥 Clique aqui para baixar</a>
+<a href="https://github.com/nandobello/Planilha-financeira-com-IA/blob/main/Tabela%20Curso.xlsx" title="Download Planilha">📥 Clique aqui para baixar</a>
 
 ## ✨ Features
 
