@@ -33,24 +33,7 @@ Clique no link abaixo para fazer o download da planilha:
 
 ## 👨‍💻 Autor
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbsp[Seu Nome]<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/seu-usuario">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/seu-perfil">
-    LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/seu-perfil/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
+**Fernando Bello**
 
 ---
 
